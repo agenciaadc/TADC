@@ -1,0 +1,268 @@
+Uri: https://aadc.webflow.io/
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/css/aadc.webflow.1e5de60fc.css
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\css\aadc.webflow.1e5de60fc.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f35f578c8fcce64362bdb1a_Favicon%402x.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f35f578c8fcce64362bdb1a_Favicon@2x.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f35f578c8fcce74552bdb1b_webclip%402x.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f35f578c8fcce74552bdb1b_webclip@2x.png
+Content Type: image/png
+
+Uri: https://pt.wikipedia.org/wiki/Steve_Jobs
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\wiki\Steve_Jobs.html
+Content Type: text/html
+
+Uri: https://www.flickr.com/photos/tsevis/
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\photos\tsevis\index.htm
+Content Type: text/html
+
+Uri: https://tsevis.com/
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\index-1.htm
+Content Type: text/html
+
+Uri: https://pt.wikipedia.org/wiki/Simbolo
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\wiki\Simbolo.html
+Content Type: text/html
+
+Uri: https://pt.wikipedia.org/wiki/Stephen_Hawking
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\wiki\Stephen_Hawking.html
+Content Type: text/html
+
+Uri: https://aadc.webflow.io/curadoria
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\curadoria.html
+Content Type: text/html
+
+Uri: https://aadc.webflow.io/societate
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\societate.html
+Content Type: text/html
+
+Uri: https://aadc.webflow.io/sac
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\sac.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f66cb527d251e45ef7582ff_FV.svg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f66cb527d251e45ef7582ff_FV.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc.jpg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f702f01b66fae56cc455d48_espectrumjobs.jpg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f702f01b66fae56cc455d48_espectrumjobs.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc693052b58e3a4d134_4.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc693052b58e3a4d134_4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc57b8afaa7358bb82a_1.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc57b8afaa7358bb82a_1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc47b8afa30488bb7e7_2.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc47b8afa30488bb7e7_2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc55758782eaf09635b_3.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc55758782eaf09635b_3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5fd061d4a1a3c06d0b4b9fe9_spline_logo.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5fd061d4a1a3c06d0b4b9fe9_spline_logo.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b469e1893965e676fa_1.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b469e1893965e676fa_1.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b486af5b49991d5083_2.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b486af5b49991d5083_2.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b6fda3cfebb827c9dc_3.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b6fda3cfebb827c9dc_3.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b60979b71f6ca13b86_4.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b60979b71f6ca13b86_4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b624c9683668307e6b_5.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b624c9683668307e6b_5.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b669e18981dce676fb_6.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b669e18981dce676fb_6.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f3b38b2e2ca98029af281e9_7.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f3b38b2e2ca98029af281e9_7.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f76284d12bf0403b41ea745_logo oficial.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f76284d12bf0403b41ea745_logo oficial.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f6843b72596dd7dfc5af1ca_Design sem nome.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f6843b72596dd7dfc5af1ca_Design sem nome.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f762639a1366684bb362248_ant-design:linkedin-outlined.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f762639a1366684bb362248_ant-designlinkedin-outlined.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f76264676e67e95f1819f11_la:facebook-messenger.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f76264676e67e95f1819f11_lafacebook-messenger.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f762645a96d0965acdf3a4f_la:facebook.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f762645a96d0965acdf3a4f_lafacebook.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f76263b8de393e833ffe429_bx:bxl-instagram.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f76263b8de393e833ffe429_bxbxl-instagram.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f76263e961c3a4c89a37772_bx:bxl-pinterest.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f76263e961c3a4c89a37772_bxbxl-pinterest.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f68420d22bc5b1c3629c4f2_ion:logo-behance.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f68420d22bc5b1c3629c4f2_ionlogo-behance.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f76263efbf17b2abed7dcbf_el:github.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f76263efbf17b2abed7dcbf_elgithub.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f35f5774f482b199880c282
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/js/webflow.807c3d542.js
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\js\webflow.807c3d542.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-500.jpeg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-800.jpeg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f66ed9c57ebff32802cb611_a3800208-3ac1-4e18-b3cc-984fd7b78fbc-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f702f01b66fae56cc455d48_espectrumjobs-p-500.jpeg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f702f01b66fae56cc455d48_espectrumjobs-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f702f01b66fae56cc455d48_espectrumjobs-p-800.jpeg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f702f01b66fae56cc455d48_espectrumjobs-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc693052b58e3a4d134_4-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc693052b58e3a4d134_4-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc57b8afaa7358bb82a_1-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc57b8afaa7358bb82a_1-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc47b8afa30488bb7e7_2-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc47b8afa30488bb7e7_2-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41bbc55758782eaf09635b_3-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41bbc55758782eaf09635b_3-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f6843b72596dd7dfc5af1ca_Design sem nome-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f6843b72596dd7dfc5af1ca_Design sem nome-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f6843b72596dd7dfc5af1ca_Design sem nome-p-800.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f6843b72596dd7dfc5af1ca_Design sem nome-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f6843b72596dd7dfc5af1ca_Design sem nome-p-1080.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f6843b72596dd7dfc5af1ca_Design sem nome-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f6843b72596dd7dfc5af1ca_Design sem nome-p-1600.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f6843b72596dd7dfc5af1ca_Design sem nome-p-1600.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f7627fee4f1435836f7d851_lf trans.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f7627fee4f1435836f7d851_lf trans.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f545511be57e3837d109de3_IMG_9055.PNG
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f545511be57e3837d109de3_IMG_9055.PNG
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f5455041e99579d1e863c12_IMG_8747.PNG
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f5455041e99579d1e863c12_IMG_8747.PNG
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f545511be57e3837d109de3_IMG_9055-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f545511be57e3837d109de3_IMG_9055-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f545511be57e3837d109de3_IMG_9055-p-800.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f545511be57e3837d109de3_IMG_9055-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f545511be57e3837d109de3_IMG_9055-p-1080.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f545511be57e3837d109de3_IMG_9055-p-1080.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f5455041e99579d1e863c12_IMG_8747-p-500.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f5455041e99579d1e863c12_IMG_8747-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f5455041e99579d1e863c12_IMG_8747-p-800.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f5455041e99579d1e863c12_IMG_8747-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f5455041e99579d1e863c12_IMG_8747-p-1080.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f5455041e99579d1e863c12_IMG_8747-p-1080.png
+Content Type: image/png
+
+Uri: https://aadc.webflow.io/career/senior-media-buyer
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\career\senior-media-buyer.html
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f35f578c8fcce5aea2bdb20_Asset 19.svg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f35f578c8fcce5aea2bdb20_Asset 19.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f35f578c8fcce362b2bdb21_Asset 18.svg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f35f578c8fcce362b2bdb21_Asset 18.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f35f578c8fcce8a682bdb1f_Asset 17.svg
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f35f578c8fcce8a682bdb1f_Asset 17.svg
+Content Type: image/svg+xml
+
+Uri: https://aadc.webflow.io/untitled
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\untitled.html
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/5f35f5774f482b199880c282/5f41d8503e7f97346843c682_150BRANCO.png
+File Name: C:\Downloaded Web Sites\aadc.webflow.io\5f35f5774f482b199880c282\5f41d8503e7f97346843c682_150BRANCO.png
+Content Type: image/png
+
